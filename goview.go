@@ -64,22 +64,22 @@ const rootForm = `
             </div>
           </div>
           <div class="row"
-            <div class="col-lg-1 col-md-1 col-xs-1">
-              <div class="col-lg-4; col-md-4; col-xs-4">
+            <div class="col-md-1 col-xs-1">
+              <div class="col-md-4; col-xs-4">
                 <img src="images/data_warehousing.png" alt="data">
               </div> 
-              <div class="col-lg-4; col-md-4; col-xs-4">
+              <div class="col-md-4; col-xs-4">
                 <img src="images/companies.jpeg" alt="data">
               </div>
-              <div class="col-lg-4; col-md-4; col-xs-4 court">
+              <div class="col-md-4; col-xs-4 court">
                 <img src="images/court.png" alt="data">
               </div>
             </div> 
           </div>
         <div class="footer">
           <div class="row">
-            <div class="col-lg-4; col-md-4; col-xs-4">
-              <p>Election Data</p>
+            <div class="col-md-4; col-xs-4">
+              <p>Ghana Election</p>
                 <h5>Presidential Election</h5>
                   <h6>1992 - 2012</h6>
                 <h5>Parlimentary Election</h5>
@@ -91,7 +91,7 @@ const rootForm = `
                 <h5>Assemble Election</h5>
                   <h6>1992 - 2012</h6>
             </div>
-            <div class="col-lg-4; col-md-4; col-xs-4">
+            <div class="col-md-4; col-xs-4">
               <p>Registered Companies</p>
                 <h5>Information Technology</h5>
                 <h5>Manifactory Industry</h5>
@@ -103,8 +103,8 @@ const rootForm = `
                 <h5>Procument</h5>
                 <h5>Creative Art</h5>
             </div>
-            <div class="col-lg-4; col-md-4; col-xs-4">
-              <p>Court Proceedings</p>
+            <div class="col-md-4; col-xs-4">
+              <p>Hansards</p>
                 <h5>Information Technology</h5>
                 <h5>Manifactory Industry</h5>
                 <h5>Agricultre Industry</h5>
